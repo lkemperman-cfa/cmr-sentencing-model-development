@@ -1,0 +1,378 @@
+,Unnamed: 0,Text,Source,label
+0,157,PROB-1Y F/C/R-200 CONF-60D,MI,"[{'start': 18, 'end': 22, 'text': 'PROB-1Y F/C/R-200 CONF-60D', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 26, 'text': 'PROB-1Y F/C/R-200 CONF-60D', 'labels': ['CONFINEMENT_DURATION']}]"
+1,135,F/C/R/ $500,MI,[]
+2,235,F/C/R-$400 CONF-80D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$400 CONF-80D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$400 CONF-80D', 'labels': ['CONFINEMENT_DURATION']}]"
+3,219,F/C/R-$584 OR CONF-30D PROB-12M,MI,"[{'start': 14, 'end': 18, 'text': 'F/C/R-$584 OR CONF-30D PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 19, 'end': 22, 'text': 'F/C/R-$584 OR CONF-30D PROB-12M', 'labels': ['CONFINEMENT_DURATION']}]"
+4,207,CONF-23D F/C/R-$12M PROB-12M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-23D F/C/R-$12M PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-23D F/C/R-$12M PROB-12M', 'labels': ['CONFINEMENT_DURATION']}]"
+5,148,F/C/R-$462 PROB-3Y,MI,[]
+6,267,F/C/R-$1400 PROB-12M CONF-180D,MI,"[{'start': 21, 'end': 25, 'text': 'F/C/R-$1400 PROB-12M CONF-180D', 'labels': ['CONFINEMENT']}, {'start': 26, 'end': 30, 'text': 'F/C/R-$1400 PROB-12M CONF-180D', 'labels': ['CONFINEMENT_DURATION']}]"
+7,141,CONF-3Y-5Y VACATED,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-3Y-5Y VACATED', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 10, 'text': 'CONF-3Y-5Y VACATED', 'labels': ['CONFINEMENT_DURATION']}]"
+8,216,C/$100,MI,[]
+9,195,F/C/R-$100 CONF-70D TO 2Y,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$100 CONF-70D TO 2Y', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 25, 'text': 'F/C/R-$100 CONF-70D TO 2Y', 'labels': ['CONFINEMENT_DURATION']}]"
+10,155,CONF-15Y TO 50Y F/C/R-$30,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-15Y TO 50Y F/C/R-$30', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 15, 'text': 'CONF-15Y TO 50Y F/C/R-$30', 'labels': ['CONFINEMENT_DURATION']}]"
+11,133,"5 DAYS JAIL, AND F/C $600 OR 60 DAYS JAIL",MI,"[{'start': 7, 'end': 11, 'text': '5 DAYS JAIL, AND F/C $600 OR 60 DAYS JAIL', 'labels': ['CONFINEMENT']}, {'start': 37, 'end': 41, 'text': '5 DAYS JAIL, AND F/C $600 OR 60 DAYS JAIL', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 6, 'text': '5 DAYS JAIL, AND F/C $600 OR 60 DAYS JAIL', 'labels': ['CONFINEMENT_DURATION']}, {'start': 29, 'end': 36, 'text': '5 DAYS JAIL, AND F/C $600 OR 60 DAYS JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+12,233,CONF 1D F/C/R/$370 OR 3D PROB 12M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 1D F/C/R/$370 OR 3D PROB 12M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF 1D F/C/R/$370 OR 3D PROB 12M', 'labels': ['CONFINEMENT_DURATION']}, {'start': 22, 'end': 24, 'text': 'CONF 1D F/C/R/$370 OR 3D PROB 12M', 'labels': ['CONFINEMENT_DURATION']}]"
+13,170,CONF 1D FCR$500,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 1D FCR$500', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF 1D FCR$500', 'labels': ['CONFINEMENT_DURATION']}]"
+14,220,CONF-90D  - TO COOPERATE WITH DRUG PROGRAM,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-90D  - TO COOPERATE WITH DRUG PROGRAM', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-90D  - TO COOPERATE WITH DRUG PROGRAM', 'labels': ['CONFINEMENT_DURATION']}]"
+15,253,F/C/R-$71 CONF-3D,MI,"[{'start': 10, 'end': 14, 'text': 'F/C/R-$71 CONF-3D', 'labels': ['CONFINEMENT']}, {'start': 15, 'end': 17, 'text': 'F/C/R-$71 CONF-3D', 'labels': ['CONFINEMENT_DURATION']}]"
+16,217,CONF-1Y6M TO 10Y  - FURLOUGHED 122980,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1Y6M TO 10Y  - FURLOUGHED 122980', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 16, 'text': 'CONF-1Y6M TO 10Y  - FURLOUGHED 122980', 'labels': ['CONFINEMENT_DURATION']}]"
+17,134,F/C/R-$215 PROB-2Y  - OR 15 DAYS,MI,"[{'start': 25, 'end': 32, 'text': 'F/C/R-$215 PROB-2Y  - OR 15 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+18,258,000Y018M000D - 005Y000M STATE PRISON F/C/R 000000,MI,"[{'start': 24, 'end': 36, 'text': '000Y018M000D - 005Y000M STATE PRISON F/C/R 000000', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 23, 'text': '000Y018M000D - 005Y000M STATE PRISON F/C/R 000000', 'labels': ['CONFINEMENT_DURATION']}]"
+19,231,CONF-1D F/C/R-$1991 OR CONF-365D PROB-12M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1D F/C/R-$1991 OR CONF-365D PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-1D F/C/R-$1991 OR CONF-365D PROB-12M', 'labels': ['CONFINEMENT_DURATION']}, {'start': 23, 'end': 27, 'text': 'CONF-1D F/C/R-$1991 OR CONF-365D PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 28, 'end': 32, 'text': 'CONF-1D F/C/R-$1991 OR CONF-365D PROB-12M', 'labels': ['CONFINEMENT_DURATION']}]"
+20,259,FCR $1000 PROB 1Y,MI,[]
+21,128,6 MO PROB/CCC/F&C $1010/3 DAYS COMM SERVICE/RANDOM TESTING/VIP/,MI,[]
+22,152,CONF 150D,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 150D', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 9, 'text': 'CONF 150D', 'labels': ['CONFINEMENT_DURATION']}]"
+23,164,CONF 1DAY FCR $494,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 1DAY FCR $494', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 9, 'text': 'CONF 1DAY FCR $494', 'labels': ['CONFINEMENT_DURATION']}]"
+24,192,SEN- 9/11/97 PRISON- MN 002-000-000 MX 003-000-000,MI,"[{'start': 13, 'end': 19, 'text': 'SEN- 9/11/97 PRISON- MN 002-000-000 MX 003-000-000', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 50, 'text': 'SEN- 9/11/97 PRISON- MN 002-000-000 MX 003-000-000', 'labels': ['CONFINEMENT_DURATION']}]"
+25,184,F/C/R-$1004 CONF-90D PROB-2Y,MI,"[{'start': 12, 'end': 16, 'text': 'F/C/R-$1004 CONF-90D PROB-2Y', 'labels': ['CONFINEMENT']}, {'start': 17, 'end': 20, 'text': 'F/C/R-$1004 CONF-90D PROB-2Y', 'labels': ['CONFINEMENT_DURATION']}]"
+26,145,SEN- 7/06/2004 JAIL- MN 000-002-000 F/C/R-1000 12M PROB,MI,"[{'start': 15, 'end': 19, 'text': 'SEN- 7/06/2004 JAIL- MN 000-002-000 F/C/R-1000 12M PROB', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 35, 'text': 'SEN- 7/06/2004 JAIL- MN 000-002-000 F/C/R-1000 12M PROB', 'labels': ['CONFINEMENT_DURATION']}]"
+27,228,CONF 90 DAYS FCR $775 PROB 12/24 MNTHS,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 90 DAYS FCR $775 PROB 12/24 MNTHS', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 12, 'text': 'CONF 90 DAYS FCR $775 PROB 12/24 MNTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+28,225,F/C/R-$400 PROB-3M  - OR 20 DAYS,MI,"[{'start': 25, 'end': 32, 'text': 'F/C/R-$400 PROB-3M  - OR 20 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+29,262,F/C/R-$50  - $1 PER WK MAKE RESTITUTION,MI,[]
+30,221,CONF 93D F/C/R $95 PROB 3M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 93D F/C/R $95 PROB 3M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF 93D F/C/R $95 PROB 3M', 'labels': ['CONFINEMENT_DURATION']}]"
+31,167,F/C/R 001100 CTYJAIL 0060 PROB 0024 MOS LICENSE-REVOKED,MI,"[{'start': 13, 'end': 20, 'text': 'F/C/R 001100 CTYJAIL 0060 PROB 0024 MOS LICENSE-REVOKED', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 25, 'text': 'F/C/R 001100 CTYJAIL 0060 PROB 0024 MOS LICENSE-REVOKED', 'labels': ['CONFINEMENT_DURATION']}]"
+32,264,F/C/R-$54  - PAID,MI,[]
+33,245,F/C/R-$29 PROB-6M,MI,[]
+34,158,F/C/R-$870 OR CONF-90D PROB-24M,MI,"[{'start': 14, 'end': 18, 'text': 'F/C/R-$870 OR CONF-90D PROB-24M', 'labels': ['CONFINEMENT']}, {'start': 19, 'end': 22, 'text': 'F/C/R-$870 OR CONF-90D PROB-24M', 'labels': ['CONFINEMENT_DURATION']}]"
+35,119,F/C/R/$420 PROB-12M,MI,[]
+36,210,F/C 240 JAIL 9 DAYS PROB 3 YRS,MI,"[{'start': 8, 'end': 12, 'text': 'F/C 240 JAIL 9 DAYS PROB 3 YRS', 'labels': ['CONFINEMENT']}, {'start': 13, 'end': 19, 'text': 'F/C 240 JAIL 9 DAYS PROB 3 YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+37,166,F/C/R-$55 PROB-6M  - RESTITUTION,MI,[]
+38,201,F/C/R-$110 CONF-8D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$110 CONF-8D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 18, 'text': 'F/C/R-$110 CONF-8D', 'labels': ['CONFINEMENT_DURATION']}]"
+39,169,CONF-6M F/C/R-$500 PROB-4Y,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-6M F/C/R-$500 PROB-4Y', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-6M F/C/R-$500 PROB-4Y', 'labels': ['CONFINEMENT_DURATION']}]"
+40,130,F/C/R-$104 CONF-60D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$104 CONF-60D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$104 CONF-60D', 'labels': ['CONFINEMENT_DURATION']}]"
+41,194,PROB 12M F/C/R/$490 02/22/01 PV F/C/R/$752 PROB 12M,MI,[]
+42,163,CCW F/C/R-$250,MI,[]
+43,186,F/C/R-$500 CONF-24D PROB-1Y,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$500 CONF-24D PROB-1Y', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$500 CONF-24D PROB-1Y', 'labels': ['CONFINEMENT_DURATION']}]"
+44,151,OPERATED WHILE IMPAIRED BY LIQUOR CONF-4D F/C/R-$1423 DLN SUSP-90D RESTR-90D,MI,"[{'start': 34, 'end': 38, 'text': 'OPERATED WHILE IMPAIRED BY LIQUOR CONF-4D F/C/R-$1423 DLN SUSP-90D RESTR-90D', 'labels': ['CONFINEMENT']}, {'start': 39, 'end': 41, 'text': 'OPERATED WHILE IMPAIRED BY LIQUOR CONF-4D F/C/R-$1423 DLN SUSP-90D RESTR-90D', 'labels': ['CONFINEMENT_DURATION']}]"
+45,161,CONF-3Y TO 5Y  - ESCAPED 11 12 71,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-3Y TO 5Y  - ESCAPED 11 12 71', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 13, 'text': 'CONF-3Y TO 5Y  - ESCAPED 11 12 71', 'labels': ['CONFINEMENT_DURATION']}]"
+46,206,F/C/R-$150 CONF-60D PROB-1Y  - LIC SUSP 60 DAYS,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$150 CONF-60D PROB-1Y  - LIC SUSP 60 DAYS', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$150 CONF-60D PROB-1Y  - LIC SUSP 60 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+47,180,CONF-56D F/C/R-$150,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-56D F/C/R-$150', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-56D F/C/R-$150', 'labels': ['CONFINEMENT_DURATION']}]"
+48,143,001Y006M000D - 005Y000M STATE PRISON F/C/R 007680 ENH-SENT MCL769 13,MI,"[{'start': 0, 'end': 23, 'text': '001Y006M000D - 005Y000M STATE PRISON F/C/R 007680 ENH-SENT MCL769 13', 'labels': ['CONFINEMENT_DURATION']}, {'start': 24, 'end': 36, 'text': '001Y006M000D - 005Y000M STATE PRISON F/C/R 007680 ENH-SENT MCL769 13', 'labels': ['CONFINEMENT']}]"
+49,193,F/C/R-$250  - ATT HWY SAFETY ALCOHOL PROGRAM,MI,[]
+50,122,1 M JAIL,MI,"[{'start': 4, 'end': 8, 'text': '1 M JAIL', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 3, 'text': '1 M JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+51,204,CONF-50D F/C/R-$640 PROB-1Y,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-50D F/C/R-$640 PROB-1Y', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-50D F/C/R-$640 PROB-1Y', 'labels': ['CONFINEMENT_DURATION']}]"
+52,200,F/C 120 SPSM 12 MONTHS MIN 24 MONTHS MAX,MI,"[{'start': 8, 'end': 12, 'text': 'F/C 120 SPSM 12 MONTHS MIN 24 MONTHS MAX', 'labels': ['CONFINEMENT']}, {'start': 13, 'end': 40, 'text': 'F/C 120 SPSM 12 MONTHS MIN 24 MONTHS MAX', 'labels': ['CONFINEMENT_DURATION']}]"
+53,229,F/C/R-$305 CONF-7D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$305 CONF-7D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 18, 'text': 'F/C/R-$305 CONF-7D', 'labels': ['CONFINEMENT_DURATION']}]"
+54,240,F/C/R-$3293 PROB-2Y PV10/03 CONF-6M PV7/13/05 CONF-6M,MI,"[{'start': 28, 'end': 32, 'text': 'F/C/R-$3293 PROB-2Y PV10/03 CONF-6M PV7/13/05 CONF-6M', 'labels': ['CONFINEMENT']}, {'start': 33, 'end': 35, 'text': 'F/C/R-$3293 PROB-2Y PV10/03 CONF-6M PV7/13/05 CONF-6M', 'labels': ['CONFINEMENT_DURATION']}, {'start': 46, 'end': 50, 'text': 'F/C/R-$3293 PROB-2Y PV10/03 CONF-6M PV7/13/05 CONF-6M', 'labels': ['CONFINEMENT']}, {'start': 51, 'end': 53, 'text': 'F/C/R-$3293 PROB-2Y PV10/03 CONF-6M PV7/13/05 CONF-6M', 'labels': ['CONFINEMENT_DURATION']}]"
+55,125,F/C/R-$339 OR 30D CONF-30D,MI,"[{'start': 18, 'end': 22, 'text': 'F/C/R-$339 OR 30D CONF-30D', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 26, 'text': 'F/C/R-$339 OR 30D CONF-30D', 'labels': ['CONFINEMENT_DURATION']}, {'start': 14, 'end': 17, 'text': 'F/C/R-$339 OR 30D CONF-30D', 'labels': ['CONFINEMENT_DURATION']}]"
+56,238,F/C/R-$1530 CONF-6M PROB-5Y,MI,"[{'start': 12, 'end': 16, 'text': 'F/C/R-$1530 CONF-6M PROB-5Y', 'labels': ['CONFINEMENT']}, {'start': 17, 'end': 19, 'text': 'F/C/R-$1530 CONF-6M PROB-5Y', 'labels': ['CONFINEMENT_DURATION']}]"
+57,202,CONF-17D F/C/R-$470 PROB-12M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-17D F/C/R-$470 PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-17D F/C/R-$470 PROB-12M', 'labels': ['CONFINEMENT_DURATION']}]"
+58,126,CONF-61D F/C/R-$730,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-61D F/C/R-$730', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-61D F/C/R-$730', 'labels': ['CONFINEMENT_DURATION']}]"
+59,156,F/C/R-$898 PROB-3Y PROB VIOL CONF-1-4Y PROB REVOKED,MI,"[{'start': 29, 'end': 33, 'text': 'F/C/R-$898 PROB-3Y PROB VIOL CONF-1-4Y PROB REVOKED', 'labels': ['CONFINEMENT']}, {'start': 34, 'end': 38, 'text': 'F/C/R-$898 PROB-3Y PROB VIOL CONF-1-4Y PROB REVOKED', 'labels': ['CONFINEMENT_DURATION']}]"
+60,213,PROB-1Y  - $15 PER MON,MI,[]
+61,127,CONF-30D F/C/R-$97,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-30D F/C/R-$97', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-30D F/C/R-$97', 'labels': ['CONFINEMENT_DURATION']}]"
+62,179,F/C/R-$128 CONF-15D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$128 CONF-15D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$128 CONF-15D', 'labels': ['CONFINEMENT_DURATION']}]"
+63,190,RESIST & OPPOSE POL OFF CONF-5D,MI,"[{'start': 24, 'end': 28, 'text': 'RESIST & OPPOSE POL OFF CONF-5D', 'labels': ['CONFINEMENT']}, {'start': 29, 'end': 31, 'text': 'RESIST & OPPOSE POL OFF CONF-5D', 'labels': ['CONFINEMENT_DURATION']}]"
+64,237,F/C/R/$500 PROB 24M LIC-REV,MI,[]
+65,199,CONF-1Y4M TO 2Y VACATED,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1Y4M TO 2Y VACATED', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 15, 'text': 'CONF-1Y4M TO 2Y VACATED', 'labels': ['CONFINEMENT_DURATION']}]"
+66,189,"5 MOS MCJ, $105 FCR, CONCUR",MI,"[{'start': 6, 'end': 9, 'text': '5 MOS MCJ, $105 FCR, CONCUR', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 5, 'text': '5 MOS MCJ, $105 FCR, CONCUR', 'labels': ['CONFINEMENT_DURATION']}]"
+67,131,F/C/R-$50 CONF-3Y,MI,"[{'start': 10, 'end': 14, 'text': 'F/C/R-$50 CONF-3Y', 'labels': ['CONFINEMENT']}, {'start': 15, 'end': 17, 'text': 'F/C/R-$50 CONF-3Y', 'labels': ['CONFINEMENT_DURATION']}]"
+68,260,180 DAY RULE,MI,[]
+69,205,CONF-60D F/C/R-$500 OR 90D,MI,"[{'start': 5, 'end': 8, 'text': 'CONF-60D F/C/R-$500 OR 90D', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 26, 'text': 'CONF-60D F/C/R-$500 OR 90D', 'labels': ['CONFINEMENT_DURATION']}, {'start': 0, 'end': 4, 'text': 'CONF-60D F/C/R-$500 OR 90D', 'labels': ['CONFINEMENT']}]"
+70,182,PROB VIOL SEN- 5/13/97 PRISON- MN 003-000-000 MX 005-000-000 CONCURRETN F/C/R-1300,MI,"[{'start': 23, 'end': 29, 'text': 'PROB VIOL SEN- 5/13/97 PRISON- MN 003-000-000 MX 005-000-000 CONCURRETN F/C/R-1300', 'labels': ['CONFINEMENT']}, {'start': 31, 'end': 60, 'text': 'PROB VIOL SEN- 5/13/97 PRISON- MN 003-000-000 MX 005-000-000 CONCURRETN F/C/R-1300', 'labels': ['CONFINEMENT_DURATION']}]"
+71,140,SEN- 8/03/95 PRISON- MN 008-000-000 MX 020-000-000,MI,"[{'start': 13, 'end': 19, 'text': 'SEN- 8/03/95 PRISON- MN 008-000-000 MX 020-000-000', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 50, 'text': 'SEN- 8/03/95 PRISON- MN 008-000-000 MX 020-000-000', 'labels': ['CONFINEMENT_DURATION']}]"
+72,124,F/C/R-$109 OR 3D,MI,"[{'start': 14, 'end': 16, 'text': 'F/C/R-$109 OR 3D', 'labels': ['CONFINEMENT_DURATION']}]"
+73,174,F/C/R-$1173 OR CONF-10D,MI,"[{'start': 15, 'end': 19, 'text': 'F/C/R-$1173 OR CONF-10D', 'labels': ['CONFINEMENT']}, {'start': 20, 'end': 23, 'text': 'F/C/R-$1173 OR CONF-10D', 'labels': ['CONFINEMENT_DURATION']}]"
+74,232,F/C $85,MI,[]
+75,212,F/C/R-$452 PROB-1Y,MI,[]
+76,248,PLACED ON DIVERSION PROGRAM DISCH 033080,MI,[]
+77,173,CONF-8D  - FAILED TO SHOW 60DAYS 12-27-71 SUSP 12-28-71,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-8D  - FAILED TO SHOW 60DAYS 12-27-71 SUSP 12-28-71', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-8D  - FAILED TO SHOW 60DAYS 12-27-71 SUSP 12-28-71', 'labels': ['CONFINEMENT_DURATION']}]"
+78,254,F/C/R/$915 OR 45D PROB 12M LIC-REV,MI,[]
+79,171,F/C/R-$19 PROB-90D,MI,[]
+80,222,CONF-6M  - WITH CREDIT FOR 4 DAYS,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-6M  - WITH CREDIT FOR 4 DAYS', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-6M  - WITH CREDIT FOR 4 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+81,168,CONF-12M F/C/R-$570 PROB-24M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-12M F/C/R-$570 PROB-24M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-12M F/C/R-$570 PROB-24M', 'labels': ['CONFINEMENT_DURATION']}]"
+82,196,F/C/R-$170 PROB-1Y  - COUNSELING PROGRAM,MI,[]
+83,172,24 MO PROB/OUTPAT/AA/VIP/F&C $1210/3 DAYS CS/,MI,[]
+84,175,CONF-93D F/C/R-$150 PROB-24M COMBINED WITH CASE 01003333,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-93D F/C/R-$150 PROB-24M COMBINED WITH CASE 01003333', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-93D F/C/R-$150 PROB-24M COMBINED WITH CASE 01003333', 'labels': ['CONFINEMENT_DURATION']}]"
+85,242,F/C/R-$100  - 90 DAYS CONF IF NOT PAID IN 4 MONTHS,MI,"[{'start': 22, 'end': 26, 'text': 'F/C/R-$100  - 90 DAYS CONF IF NOT PAID IN 4 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'F/C/R-$100  - 90 DAYS CONF IF NOT PAID IN 4 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+86,226,CONF-1D F/C/R-$585,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1D F/C/R-$585', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-1D F/C/R-$585', 'labels': ['CONFINEMENT_DURATION']}]"
+87,268,F/C/R-$5 CONF-10D PROB-1Y3M,MI,"[{'start': 9, 'end': 13, 'text': 'F/C/R-$5 CONF-10D PROB-1Y3M', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 17, 'text': 'F/C/R-$5 CONF-10D PROB-1Y3M', 'labels': ['CONFINEMENT_DURATION']}]"
+88,256,CONF-1Y6M TO 7Y6M F/C/R-$30,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1Y6M TO 7Y6M F/C/R-$30', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 17, 'text': 'CONF-1Y6M TO 7Y6M F/C/R-$30', 'labels': ['CONFINEMENT_DURATION']}]"
+89,208,JAIL- MN 000-000-090,MI,"[{'start': 0, 'end': 4, 'text': 'JAIL- MN 000-000-090', 'labels': ['CONFINEMENT']}, {'start': 6, 'end': 20, 'text': 'JAIL- MN 000-000-090', 'labels': ['CONFINEMENT_DURATION']}]"
+90,138,CONF-30D F/C/R-$405 OR CONF-40D PROB-24M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-30D F/C/R-$405 OR CONF-40D PROB-24M', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 27, 'text': 'CONF-30D F/C/R-$405 OR CONF-40D PROB-24M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-30D F/C/R-$405 OR CONF-40D PROB-24M', 'labels': ['CONFINEMENT_DURATION']}, {'start': 28, 'end': 31, 'text': 'CONF-30D F/C/R-$405 OR CONF-40D PROB-24M', 'labels': ['CONFINEMENT_DURATION']}]"
+91,249,DIST PEACE F/C/R-$130,MI,[]
+92,263,CONF-3D F/C/R-$125 PROB-12M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-3D F/C/R-$125 PROB-12M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-3D F/C/R-$125 PROB-12M', 'labels': ['CONFINEMENT_DURATION']}]"
+93,251,6 YEARS MDOC CONSECUTIVE W/ CASE #51793,MI,"[{'start': 8, 'end': 12, 'text': '6 YEARS MDOC CONSECUTIVE W/ CASE #51793', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 7, 'text': '6 YEARS MDOC CONSECUTIVE W/ CASE #51793', 'labels': ['CONFINEMENT_DURATION']}]"
+94,255,CONF-1D F/C/R-$530 PROB-540D,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1D F/C/R-$530 PROB-540D', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-1D F/C/R-$530 PROB-540D', 'labels': ['CONFINEMENT_DURATION']}]"
+95,211,F/C/R-$214 OR 10D,MI,"[{'start': 14, 'end': 17, 'text': 'F/C/R-$214 OR 10D', 'labels': ['CONFINEMENT_DURATION']}]"
+96,246,OPERATE MTR VEH U/INFL LIQ CONF-1D F/C/R-$640 PROB-9M,MI,"[{'start': 27, 'end': 31, 'text': 'OPERATE MTR VEH U/INFL LIQ CONF-1D F/C/R-$640 PROB-9M', 'labels': ['CONFINEMENT']}, {'start': 32, 'end': 34, 'text': 'OPERATE MTR VEH U/INFL LIQ CONF-1D F/C/R-$640 PROB-9M', 'labels': ['CONFINEMENT_DURATION']}]"
+97,162,SEN- 9/30/2005 JAIL- MN 000-004-000 F/C/R-2000 30M PROB,MI,"[{'start': 15, 'end': 19, 'text': 'SEN- 9/30/2005 JAIL- MN 000-004-000 F/C/R-2000 30M PROB', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 35, 'text': 'SEN- 9/30/2005 JAIL- MN 000-004-000 F/C/R-2000 30M PROB', 'labels': ['CONFINEMENT_DURATION']}]"
+98,209,PROB-VIOLATED CONF-210D PROB-REVOKED,MI,"[{'start': 14, 'end': 18, 'text': 'PROB-VIOLATED CONF-210D PROB-REVOKED', 'labels': ['CONFINEMENT']}, {'start': 19, 'end': 23, 'text': 'PROB-VIOLATED CONF-210D PROB-REVOKED', 'labels': ['CONFINEMENT_DURATION']}]"
+99,244,F/C/R $1500 PROB 2Y,MI,[]
+100,243,F/C/R-$2114,MI,[]
+101,230,F/C/R-$474 CONF-90D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$474 CONF-90D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$474 CONF-90D', 'labels': ['CONFINEMENT_DURATION']}]"
+102,121,CONF-330D F/C/R-$2940 PROB-48M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-330D F/C/R-$2940 PROB-48M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 9, 'text': 'CONF-330D F/C/R-$2940 PROB-48M', 'labels': ['CONFINEMENT_DURATION']}]"
+103,149,CONF-1D PROB-12M RETAIL FRAUD II,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-1D PROB-12M RETAIL FRAUD II', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-1D PROB-12M RETAIL FRAUD II', 'labels': ['CONFINEMENT_DURATION']}]"
+104,154,F/C/R-$505 CONF-75D,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$505 CONF-75D', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 19, 'text': 'F/C/R-$505 CONF-75D', 'labels': ['CONFINEMENT_DURATION']}]"
+105,132,2Y0M0D TO 5Y0M,MI,"[{'start': 0, 'end': 14, 'text': '2Y0M0D TO 5Y0M', 'labels': ['CONFINEMENT_DURATION']}]"
+106,191,CONFINEMENT 00YR 05MTH 000DAY TO 10YR 00MTH 000DAY PROB: 00YR 00MTH 000DAY,MI,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 00YR 05MTH 000DAY TO 10YR 00MTH 000DAY PROB: 00YR 00MTH 000DAY', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 50, 'text': 'CONFINEMENT 00YR 05MTH 000DAY TO 10YR 00MTH 000DAY PROB: 00YR 00MTH 000DAY', 'labels': ['CONFINEMENT_DURATION']}]"
+107,178,POS LESS 50 GR CONF01Y,MI,"[{'start': 15, 'end': 19, 'text': 'POS LESS 50 GR CONF01Y', 'labels': ['CONFINEMENT']}, {'start': 19, 'end': 22, 'text': 'POS LESS 50 GR CONF01Y', 'labels': ['CONFINEMENT_DURATION']}]"
+108,188,FLEEING & ELUDING,MI,[]
+109,144,F/C/R-$176 PROB-6M,MI,[]
+110,203,F/C/R-$225 CONF-4D  - LIC SUSP 6 MONTHS,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$225 CONF-4D  - LIC SUSP 6 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 18, 'text': 'F/C/R-$225 CONF-4D  - LIC SUSP 6 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+111,252,CONF-45D F/C/R $1170 PROB-24M,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-45D F/C/R $1170 PROB-24M', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-45D F/C/R $1170 PROB-24M', 'labels': ['CONFINEMENT_DURATION']}]"
+112,197,F/C/R/$515 OR 50D,MI,"[{'start': 14, 'end': 17, 'text': 'F/C/R/$515 OR 50D', 'labels': ['CONFINEMENT_DURATION']}]"
+113,239,CONF-84M-15Y,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-84M-15Y', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 12, 'text': 'CONF-84M-15Y', 'labels': ['CONFINEMENT_DURATION']}]"
+114,214,F/C/R-$2000 PROB-5Y,MI,[]
+115,250,CONF-164,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-164', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-164', 'labels': ['CONFINEMENT_DURATION']}]"
+116,153,CONF-4D F/C/R-$323 PROB-730D,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-4D F/C/R-$323 PROB-730D', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-4D F/C/R-$323 PROB-730D', 'labels': ['CONFINEMENT_DURATION']}]"
+117,187,F/C/R-$150  - 30 DAYS REST LIC,MI,[]
+118,137,CONF-8D PROB-1Y,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-8D PROB-1Y', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF-8D PROB-1Y', 'labels': ['CONFINEMENT_DURATION']}]"
+119,176,CONF-30D F/C/R-$650,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-30D F/C/R-$650', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-30D F/C/R-$650', 'labels': ['CONFINEMENT_DURATION']}]"
+120,165,F/C/R-$860 PROB-6M CONF-45D PV-PROB-REV,MI,"[{'start': 19, 'end': 23, 'text': 'F/C/R-$860 PROB-6M CONF-45D PV-PROB-REV', 'labels': ['CONFINEMENT']}, {'start': 24, 'end': 27, 'text': 'F/C/R-$860 PROB-6M CONF-45D PV-PROB-REV', 'labels': ['CONFINEMENT_DURATION']}]"
+121,265,SEN- 2/13/2004 JAIL- MN 001-000-000 F/C/R-8260 24M PROB,MI,"[{'start': 15, 'end': 19, 'text': 'SEN- 2/13/2004 JAIL- MN 001-000-000 F/C/R-8260 24M PROB', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 35, 'text': 'SEN- 2/13/2004 JAIL- MN 001-000-000 F/C/R-8260 24M PROB', 'labels': ['CONFINEMENT_DURATION']}]"
+122,120,F/C/R-$500 CONF-1D PROB-1Y  - 1DAY CREDIT,MI,"[{'start': 11, 'end': 15, 'text': 'F/C/R-$500 CONF-1D PROB-1Y  - 1DAY CREDIT', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 18, 'text': 'F/C/R-$500 CONF-1D PROB-1Y  - 1DAY CREDIT', 'labels': ['CONFINEMENT_DURATION']}]"
+123,160,DISO PERSON-INTOXICATED F/C/R-$390 PROB-12M,MI,[]
+124,234,PROSTITUTION F/C/R-$400,MI,[]
+125,269,SEN- 1/19/2005 PRISON- MN 000-032-000 MX 020-000-000 F/C/R-150,MI,"[{'start': 15, 'end': 21, 'text': 'SEN- 1/19/2005 PRISON- MN 000-032-000 MX 020-000-000 F/C/R-150', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 52, 'text': 'SEN- 1/19/2005 PRISON- MN 000-032-000 MX 020-000-000 F/C/R-150', 'labels': ['CONFINEMENT_DURATION']}]"
+126,129,F/C/R-$587 PROB-2Y,MI,[]
+127,247,CONFINEMENT FOR 00 YR 00 MTH 000 DAY TO 00 YR 00 MTH 029 DAY AT WCY,MI,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT FOR 00 YR 00 MTH 000 DAY TO 00 YR 00 MTH 029 DAY AT WCY', 'labels': ['CONFINEMENT']}, {'start': 16, 'end': 60, 'text': 'CONFINEMENT FOR 00 YR 00 MTH 000 DAY TO 00 YR 00 MTH 029 DAY AT WCY', 'labels': ['CONFINEMENT_DURATION']}]"
+128,150,SEN- 6/07/1999 PRISON- MN 003-000-000 MX 014-000-000 CONCURRENT,MI,"[{'start': 15, 'end': 21, 'text': 'SEN- 6/07/1999 PRISON- MN 003-000-000 MX 014-000-000 CONCURRENT', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 52, 'text': 'SEN- 6/07/1999 PRISON- MN 003-000-000 MX 014-000-000 CONCURRENT', 'labels': ['CONFINEMENT_DURATION']}]"
+129,224,"18MOS PROB, $40/MO FCR",MI,[]
+130,215,CONF-75D F/C/R-$255 OR CONF-10D,MI,"[{'start': 0, 'end': 4, 'text': 'CONF-75D F/C/R-$255 OR CONF-10D', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 8, 'text': 'CONF-75D F/C/R-$255 OR CONF-10D', 'labels': ['CONFINEMENT_DURATION']}, {'start': 23, 'end': 27, 'text': 'CONF-75D F/C/R-$255 OR CONF-10D', 'labels': ['CONFINEMENT']}, {'start': 28, 'end': 31, 'text': 'CONF-75D F/C/R-$255 OR CONF-10D', 'labels': ['CONFINEMENT_DURATION']}]"
+131,177,CONF 12 PROB 5Y,MI,"[{'start': 0, 'end': 4, 'text': 'CONF 12 PROB 5Y', 'labels': ['CONFINEMENT']}, {'start': 5, 'end': 7, 'text': 'CONF 12 PROB 5Y', 'labels': ['CONFINEMENT_DURATION']}]"
+132,261,SEN- 3/02/98 JAIL- MN 000-000-120 MX 000-000-120 F/C/R-500 24M PROB,MI,"[{'start': 13, 'end': 17, 'text': 'SEN- 3/02/98 JAIL- MN 000-000-120 MX 000-000-120 F/C/R-500 24M PROB', 'labels': ['CONFINEMENT']}, {'start': 19, 'end': 48, 'text': 'SEN- 3/02/98 JAIL- MN 000-000-120 MX 000-000-120 F/C/R-500 24M PROB', 'labels': ['CONFINEMENT_DURATION']}]"
+133,183,RETAIL FRAUD II,MI,[]
+134,241,SEN- 9/24/2004 PRISON- MN 000-048-000 MX 000-120-000,MI,"[{'start': 15, 'end': 21, 'text': 'SEN- 9/24/2004 PRISON- MN 000-048-000 MX 000-120-000', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 52, 'text': 'SEN- 9/24/2004 PRISON- MN 000-048-000 MX 000-120-000', 'labels': ['CONFINEMENT_DURATION']}]"
+135,139,F/C/R-$35  - AND RESTITUTION,MI,[]
+136,106,$155 F&C OR 15 DAYS CR 2 JAIL BEGAN 8/4/89,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+137,111,$1190F&C/1Y PROB/COUNSELING/1D JAIL/30D HOUSE ARREST/3D COMM SERV/RANDOM TEST,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+138,100,"10 DAS JAIL, $600 F/C/R, 1 YR PROB OR 30 DAS JAIL",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+139,110,12M TO 2Y,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+140,101,000Y000M090D - 000Y000M STATE PRISON F/C/R 000486 ENH-SENT MCL769 13,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+141,117,1Y7M0D TO 15Y0M F/C/R-$455,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+142,102,$75/14 DAYS JAIL/,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+143,109,"12-48MOS SPSM,CONCUR W/CT2",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+144,103,000Y000M0 90D -  000Y000M STA,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+145,104,18MO - 15YR CONF F/C/R $120 SENT ENHANCED,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+146,105,"30 MOS TO 120 MOS SPSM, CONCUR",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+147,108,10-17-72 F/C/R-$164 PROB-6M CONF-5D,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+148,113,"10 DAYS JAIL, F/C $205 OR 20 DAYS JAIL, AND 2 YRS PROB",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+149,116,1Y0M0D TO 7Y6M,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+150,115,"18MOS PRB W/1ST 12DYS MCJ, $300 + $40/MO FCR, CT2 CS-POSS OF MARIJUANA-SAME SENT",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+151,118,2 YEARS STATE PRISON SOUTHERN MICHIGAN,Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+152,107,"1 YEAR PROBATION, $500 FINE & $30 A MONTH F/C/R",Sentencing Classification Data Labeling (search_mi_to_label tab),[]
+153,90,Prob-3 YRS/$750 FINE/100HR COM SERV/LIC SUSP-1YR,Synthetic Data,[]
+154,89,90 Days-MC-Fine-$800/DL SUSPENDED-6MOS,Synthetic Data,[]
+155,88,"""2 YRS PROB W/1ST 90 DYS MCJ, $345 + LIC REV 1 YR""",Synthetic Data,[]
+156,87,CONF-90D F/C/R-$360 COMM SERVICE-60HRS LIC SUSP-180D,Synthetic Data,[]
+157,86,45 DAYS/11/29 PROBATION/$600 FINE/CC/DL REVOKED-2YRS,Synthetic Data,[]
+158,95,90 Days-CC-Fine-$700/CommServ-50Hrs/LIC SUSP-2YRS,Synthetic Data,[]
+159,97,Confined-180D/Fine-$1000/CommServ-70Hrs/LIC SUSP-3YRS,Synthetic Data,[]
+160,93,Confined-120D/Fine-$900/CommServ-80Hrs/LIC SUSP-1YR,Synthetic Data,[]
+161,91,Jail-6MOS/Fine-$400/DL REVOCATION-2YRS,Synthetic Data,[]
+162,99,PROB-2Y/MANDT REHAB/30 HR COM SERV,Synthetic Data,[]
+163,92,"""1 YR PROB, 30 DAYS JAIL, FINE-$500, DL SUSPENDED-6MOS""",Synthetic Data,[]
+164,98,CONF-30D/PAY FINE/$500/OBT ALCO TREAT,Synthetic Data,[]
+165,96,1 YR PROB/60 DAYS MCJ/FINE-$850/DL REVOKED-24MOS,Synthetic Data,[]
+166,376,CONFINEMENT - 2 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 2 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+167,318,CONFINEMENT OR FINE 48 HRS / $250 FINE / CC / 11 / 29 PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE 48 HRS / $250 FINE / CC / 11 / 29 PROBATION', 'labels': ['CONFINEMENT']}, {'start': 20, 'end': 26, 'text': 'CONFINEMENT OR FINE 48 HRS / $250 FINE / CC / 11 / 29 PROBATION', 'labels': ['CONFINEMENT_DURATION']}]"
+168,369,1 YEAR EA COUNT,TN,"[{'start': 0, 'end': 6, 'text': '1 YEAR EA COUNT', 'labels': ['CONFINEMENT_DURATION']}]"
+169,285,CONFINEMENT 20 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 20 DAYS', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 19, 'text': 'CONFINEMENT 20 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+170,296,CONFINEMENT OR FINE - 8YR PAROLE AFTE 2YR 6MO,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 8YR PAROLE AFTE 2YR 6MO', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 25, 'text': 'CONFINEMENT OR FINE - 8YR PAROLE AFTE 2YR 6MO', 'labels': ['CONFINEMENT_DURATION']}, {'start': 26, 'end': 37, 'text': 'CONFINEMENT OR FINE - 8YR PAROLE AFTE 2YR 6MO', 'labels': ['CONFINEMENT']}, {'start': 38, 'end': 45, 'text': 'CONFINEMENT OR FINE - 8YR PAROLE AFTE 2YR 6MO', 'labels': ['CONFINEMENT_DURATION']}]"
+171,341,5 YRS @ 30 % AND $2000 FINE,TN,"[{'start': 0, 'end': 12, 'text': '5 YRS @ 30 % AND $2000 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+172,346,CONFINEMENT - 2DAYS / FINE $250 / COURT COSTS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 2DAYS / FINE $250 / COURT COSTS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 19, 'text': 'CONFINEMENT - 2DAYS / FINE $250 / COURT COSTS', 'labels': ['CONFINEMENT_DURATION']}]"
+173,360,CONFINEMENT - 20 DAYS JAIL / 11 / 29 PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 20 DAYS JAIL / 11 / 29 PROBATION', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 20 DAYS JAIL / 11 / 29 PROBATION', 'labels': ['CONFINEMENT_DURATION']}, {'start': 22, 'end': 26, 'text': 'CONFINEMENT - 20 DAYS JAIL / 11 / 29 PROBATION', 'labels': ['CONFINEMENT']}]"
+174,380,GUILTY PLEA - MISD ASSAULT / 11 / 29 DAYS SUSP BUT 150 DAYS,TN,"[{'start': 29, 'end': 41, 'text': 'GUILTY PLEA - MISD ASSAULT / 11 / 29 DAYS SUSP BUT 150 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 51, 'end': 59, 'text': 'GUILTY PLEA - MISD ASSAULT / 11 / 29 DAYS SUSP BUT 150 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 42, 'end': 50, 'text': 'GUILTY PLEA - MISD ASSAULT / 11 / 29 DAYS SUSP BUT 150 DAYS', 'labels': ['CONFINEMENT']}]"
+175,377,GUILTY PLEA - 3 YEARS AT 30 % CONCURRENT,TN,"[{'start': 14, 'end': 30, 'text': 'GUILTY PLEA - 3 YEARS AT 30 % CONCURRENT', 'labels': ['CONFINEMENT_DURATION']}]"
+176,331,CONFINEMENT OR FINE - 2 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 2 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+177,325,CONFINEMENT OR FINE - 45 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 45 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 45 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+178,396,CONFINEMENT - 5 DAYS MITT / FINE - $50,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 5 DAYS MITT / FINE - $50', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 5 DAYS MITT / FINE - $50', 'labels': ['CONFINEMENT_DURATION']}]"
+179,333,CONFINEMENT - 11 YEARS EACH COUNT CONCURRENT,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 11 YEARS EACH COUNT CONCURRENT', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 11 YEARS EACH COUNT CONCURRENT', 'labels': ['CONFINEMENT_DURATION']}]"
+180,347,CONFINEMENT - 5 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+181,365,11 / 29 SUSPENDED TO 15 DAYS,TN,"[{'start': 0, 'end': 7, 'text': '11 / 29 SUSPENDED TO 15 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 21, 'end': 28, 'text': '11 / 29 SUSPENDED TO 15 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 8, 'end': 20, 'text': '11 / 29 SUSPENDED TO 15 DAYS', 'labels': ['CONFINEMENT']}]"
+182,326,CONFINEMENT 6 MO @ 75 % / SUPERVISED PROBATION AFTER RELEASE UNTIL COMPLETE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 6 MO @ 75 % / SUPERVISED PROBATION AFTER RELEASE UNTIL COMPLETE', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 23, 'text': 'CONFINEMENT 6 MO @ 75 % / SUPERVISED PROBATION AFTER RELEASE UNTIL COMPLETE', 'labels': ['CONFINEMENT_DURATION']}]"
+183,408,CONFINEMENT 30 DAYS @ 100 % / COURT COSTS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 30 DAYS @ 100 % / COURT COSTS', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 27, 'text': 'CONFINEMENT 30 DAYS @ 100 % / COURT COSTS', 'labels': ['CONFINEMENT_DURATION']}]"
+184,378,CONFINEMENT OR FINE - 1 YR + CC + 6 YRS PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 1 YR + CC + 6 YRS PROBATION', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 26, 'text': 'CONFINEMENT OR FINE - 1 YR + CC + 6 YRS PROBATION', 'labels': ['CONFINEMENT']}]"
+185,368,4 YRS PROB,TN,[]
+186,321,CONFINEMENT OR FINE - 48 HOURS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+187,398,CONFINEMENT - 6 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 6 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+188,390,CONFINEMENT - 6 MOS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 MOS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 19, 'text': 'CONFINEMENT - 6 MOS', 'labels': ['CONFINEMENT_DURATION']}]"
+189,353,CONFINEMENT - 5 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 5 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 5 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+190,385,CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS,TN,"[{'start': 28, 'end': 34, 'text': 'CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 43, 'end': 50, 'text': 'CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 51, 'end': 60, 'text': 'CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 27, 'text': 'CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - SERVE 7 DAYS REST OF 11 / 29 SUSPENDED / $50 FINE AND COURT COSTS', 'labels': ['CONFINEMENT']}]"
+191,363,CONFINEMENT OR FINE - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+192,394,GUILTY PLEA - 11 / 29 SUSP T / 48HRS JAIL / 6MON PROB / FINE,TN,"[{'start': 37, 'end': 41, 'text': 'GUILTY PLEA - 11 / 29 SUSP T / 48HRS JAIL / 6MON PROB / FINE', 'labels': ['CONFINEMENT']}, {'start': 31, 'end': 36, 'text': 'GUILTY PLEA - 11 / 29 SUSP T / 48HRS JAIL / 6MON PROB / FINE', 'labels': ['CONFINEMENT_DURATION']}, {'start': 22, 'end': 26, 'text': 'GUILTY PLEA - 11 / 29 SUSP T / 48HRS JAIL / 6MON PROB / FINE', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'GUILTY PLEA - 11 / 29 SUSP T / 48HRS JAIL / 6MON PROB / FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+193,328,CONFINEMENT OR FINE - 48 HOURS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+194,349,15YRS,TN,"[{'start': 0, 'end': 5, 'text': '15YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+195,411,"CONFINEMENT OR FINE - $175.25 , 24HRS IN JAIL",TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - $175.25 , 24HRS IN JAIL', 'labels': ['CONFINEMENT']}, {'start': 32, 'end': 37, 'text': 'CONFINEMENT OR FINE - $175.25 , 24HRS IN JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+196,281,6 MOS . SUSPENDED,TN,"[{'start': 0, 'end': 5, 'text': '6 MOS . SUSPENDED', 'labels': ['CONFINEMENT_DURATION']}, {'start': 8, 'end': 17, 'text': '6 MOS . SUSPENDED', 'labels': ['CONFINEMENT']}]"
+197,339,CONFINEMENT - 3 YEARS / 3 YEARS PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 3 YEARS / 3 YEARS PROBATION', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 3 YEARS / 3 YEARS PROBATION', 'labels': ['CONFINEMENT_DURATION']}]"
+198,303,$250 6MO SUSP 2DA,TN,"[{'start': 5, 'end': 8, 'text': '$250 6MO SUSP 2DA', 'labels': ['CONFINEMENT_DURATION']}, {'start': 14, 'end': 17, 'text': '$250 6MO SUSP 2DA', 'labels': ['CONFINEMENT_DURATION']}, {'start': 9, 'end': 13, 'text': '$250 6MO SUSP 2DA', 'labels': ['CONFINEMENT']}]"
+199,372,CONFINEMENT - 18 MONTHS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 18 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 23, 'text': 'CONFINEMENT - 18 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+200,362,CONFINEMENT - 50 DAYS CONC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 50 DAYS CONC', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 50 DAYS CONC', 'labels': ['CONFINEMENT_DURATION']}]"
+201,310,CONFINEMENT - 11 / 29 TO SERVE 48 HRS / 8HR PSW / $75FINE / REST,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 11 / 29 TO SERVE 48 HRS / 8HR PSW / $75FINE / REST', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 11 / 29 TO SERVE 48 HRS / 8HR PSW / $75FINE / REST', 'labels': ['CONFINEMENT_DURATION']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT - 11 / 29 TO SERVE 48 HRS / 8HR PSW / $75FINE / REST', 'labels': ['CONFINEMENT']}, {'start': 31, 'end': 37, 'text': 'CONFINEMENT - 11 / 29 TO SERVE 48 HRS / 8HR PSW / $75FINE / REST', 'labels': ['CONFINEMENT_DURATION']}]"
+202,330,CONFINEMENT - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+203,276,CONFINEMENT OR FINE - 10 YEARS @ 45 %,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 10 YEARS @ 45 %', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 37, 'text': 'CONFINEMENT OR FINE - 10 YEARS @ 45 %', 'labels': ['CONFINEMENT_DURATION']}]"
+204,383,CONFINEMENT - 6 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 6 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+205,294,CONFINEMENT - 3 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 3 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 3 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+206,283,30 DYS,TN,"[{'start': 0, 'end': 6, 'text': '30 DYS', 'labels': ['CONFINEMENT_DURATION']}]"
+207,336,CONFINEMENT - 1 YEAR,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT_DURATION']}]"
+208,397,CONFINEMENT - 4 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 4 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 4 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+209,392,CONFIN & FINE - $250 - 11 / 29 SUS EXC 48HRS - DL REV 1YR,TN,"[{'start': 0, 'end': 6, 'text': 'CONFIN & FINE - $250 - 11 / 29 SUS EXC 48HRS - DL REV 1YR', 'labels': ['CONFINEMENT']}, {'start': 23, 'end': 30, 'text': 'CONFIN & FINE - $250 - 11 / 29 SUS EXC 48HRS - DL REV 1YR', 'labels': ['CONFINEMENT_DURATION']}, {'start': 39, 'end': 44, 'text': 'CONFIN & FINE - $250 - 11 / 29 SUS EXC 48HRS - DL REV 1YR', 'labels': ['CONFINEMENT_DURATION']}, {'start': 31, 'end': 38, 'text': 'CONFIN & FINE - $250 - 11 / 29 SUS EXC 48HRS - DL REV 1YR', 'labels': ['CONFINEMENT']}]"
+210,345,48 HRS CONFINEMENT AND $50,TN,"[{'start': 7, 'end': 18, 'text': '48 HRS CONFINEMENT AND $50', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 6, 'text': '48 HRS CONFINEMENT AND $50', 'labels': ['CONFINEMENT_DURATION']}]"
+211,342,5 YRS ( J ),TN,"[{'start': 0, 'end': 5, 'text': '5 YRS ( J )', 'labels': ['CONFINEMENT_DURATION']}, {'start': 6, 'end': 11, 'text': '5 YRS ( J )', 'labels': ['CONFINEMENT']}]"
+212,352,CONFINEMENT OR FINE - $750 - 30 DAYS AT 75 %,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - $750 - 30 DAYS AT 75 %', 'labels': ['CONFINEMENT']}, {'start': 29, 'end': 44, 'text': 'CONFINEMENT OR FINE - $750 - 30 DAYS AT 75 %', 'labels': ['CONFINEMENT_DURATION']}]"
+213,384,CONFINEMENT OR FINE - $250 FINE 6 MONTHS SUSP,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - $250 FINE 6 MONTHS SUSP', 'labels': ['CONFINEMENT']}, {'start': 32, 'end': 40, 'text': 'CONFINEMENT OR FINE - $250 FINE 6 MONTHS SUSP', 'labels': ['CONFINEMENT_DURATION']}, {'start': 41, 'end': 45, 'text': 'CONFINEMENT OR FINE - $250 FINE 6 MONTHS SUSP', 'labels': ['CONFINEMENT']}]"
+214,306,CONFINEMENT - 48 HOURS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 48 HOURS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+215,406,CONFINEMENT OR FINE - 6 MONTHS SERVE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 6 MONTHS SERVE', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 6 MONTHS SERVE', 'labels': ['CONFINEMENT_DURATION']}, {'start': 4, 'end': 5, 'text': 'CONFINEMENT OR FINE - 6 MONTHS SERVE', 'labels': ['CONFINEMENT']}, {'start': 31, 'end': 36, 'text': 'CONFINEMENT OR FINE - 6 MONTHS SERVE', 'labels': ['CONFINEMENT']}]"
+216,293,CONFINEMENT - 60 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 60 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 60 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+217,373,CONFINEMENT OR FINE / $350 FINE + COURT COSTS / 48 HRS JAIL,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE / $350 FINE + COURT COSTS / 48 HRS JAIL', 'labels': ['CONFINEMENT']}, {'start': 48, 'end': 59, 'text': 'CONFINEMENT OR FINE / $350 FINE + COURT COSTS / 48 HRS JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+218,379,CONFINEMENT - 30 DAYS / $50 FINE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS / $50 FINE', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS / $50 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+219,275,CONFINEMENT - 1 YEAR,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT_DURATION']}]"
+220,286,CONFINEMENT - 11 / 29 - 9 MOS / FINE - $50 / CC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 11 / 29 - 9 MOS / FINE - $50 / CC', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 29, 'text': 'CONFINEMENT - 11 / 29 - 9 MOS / FINE - $50 / CC', 'labels': ['CONFINEMENT_DURATION']}]"
+221,273,"GUILTY : $50 - F , 11 / 29 SUSP TO 20 DAYS",TN,"[{'start': 27, 'end': 34, 'text': 'GUILTY : $50 - F , 11 / 29 SUSP TO 20 DAYS', 'labels': ['CONFINEMENT']}, {'start': 35, 'end': 42, 'text': 'GUILTY : $50 - F , 11 / 29 SUSP TO 20 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 19, 'end': 26, 'text': 'GUILTY : $50 - F , 11 / 29 SUSP TO 20 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+222,420,6 MONTHS / PROBATION - 6 MONTHS / $100,TN,"[{'start': 0, 'end': 8, 'text': '6 MONTHS / PROBATION - 6 MONTHS / $100', 'labels': ['CONFINEMENT_DURATION']}]"
+223,292,6 MOS ; $50 FINE,TN,"[{'start': 0, 'end': 5, 'text': '6 MOS ; $50 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+224,290,11 / 29 SUSPENDED EXCEPT 30 DAYS / 1 YEAR PROBATION / $425.25,TN,"[{'start': 0, 'end': 7, 'text': '11 / 29 SUSPENDED EXCEPT 30 DAYS / 1 YEAR PROBATION / $425.25', 'labels': ['CONFINEMENT_DURATION']}, {'start': 8, 'end': 24, 'text': '11 / 29 SUSPENDED EXCEPT 30 DAYS / 1 YEAR PROBATION / $425.25', 'labels': ['CONFINEMENT']}, {'start': 25, 'end': 32, 'text': '11 / 29 SUSPENDED EXCEPT 30 DAYS / 1 YEAR PROBATION / $425.25', 'labels': ['CONFINEMENT_DURATION']}]"
+225,311,CONFINEMENT - 6 MONTHS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 6 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+226,307,CONFINEMENT - 3 YR IMMEDIATE PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 3 YR IMMEDIATE PROBATION', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 18, 'text': 'CONFINEMENT - 3 YR IMMEDIATE PROBATION', 'labels': ['CONFINEMENT_DURATION']}, {'start': 19, 'end': 38, 'text': 'CONFINEMENT - 3 YR IMMEDIATE PROBATION', 'labels': ['CONFINEMENT_DURATION']}]"
+227,374,CONFINEMENT OR FINE - $25 + CC / 15 DAYS IN JAIL,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - $25 + CC / 15 DAYS IN JAIL', 'labels': ['CONFINEMENT']}, {'start': 33, 'end': 48, 'text': 'CONFINEMENT OR FINE - $25 + CC / 15 DAYS IN JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+228,413,CONFINEMENT 48 HRS / SUPERVISED PROBATION,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 48 HRS / SUPERVISED PROBATION', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 18, 'text': 'CONFINEMENT 48 HRS / SUPERVISED PROBATION', 'labels': ['CONFINEMENT_DURATION']}]"
+229,382,CONFINEMENT OR FINE - 60 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 60 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 60 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+230,402,CONFINEMENT OR FINE - 2 DAYS / $25 AND COST,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 2 DAYS / $25 AND COST', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 28, 'text': 'CONFINEMENT OR FINE - 2 DAYS / $25 AND COST', 'labels': ['CONFINEMENT_DURATION']}]"
+231,414,CONFINEMENT OR FINE - SERVE 72 HRS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - SERVE 72 HRS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 27, 'text': 'CONFINEMENT OR FINE - SERVE 72 HRS', 'labels': ['CONFINEMENT']}, {'start': 28, 'end': 34, 'text': 'CONFINEMENT OR FINE - SERVE 72 HRS', 'labels': ['CONFINEMENT_DURATION']}]"
+232,289,CONFINEMENT - 4 YEARS / FINE - $200 / COURT COSTS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 4 YEARS / FINE - $200 / COURT COSTS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 4 YEARS / FINE - $200 / COURT COSTS', 'labels': ['CONFINEMENT_DURATION']}]"
+233,337,CONFINEMENT - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+234,399,CONFINEMENT OR FINE - 18 MONTHS DEPT OF CORRECTIONS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 18 MONTHS DEPT OF CORRECTIONS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 31, 'text': 'CONFINEMENT OR FINE - 18 MONTHS DEPT OF CORRECTIONS', 'labels': ['CONFINEMENT_DURATION']}]"
+235,297,11 / 29 AT 75 % TO SERVE 48 HOURS,TN,"[{'start': 0, 'end': 15, 'text': '11 / 29 AT 75 % TO SERVE 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 25, 'end': 33, 'text': '11 / 29 AT 75 % TO SERVE 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 16, 'end': 24, 'text': '11 / 29 AT 75 % TO SERVE 48 HOURS', 'labels': ['CONFINEMENT']}]"
+236,284,CONFINEMENT OR FINE - 3 YEARS DOC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 3 YEARS DOC', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 3 YEARS DOC', 'labels': ['CONFINEMENT_DURATION']}]"
+237,287,CONFINEMENT - 48 HOURS CONCURRENT,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 48 HOURS CONCURRENT', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 48 HOURS CONCURRENT', 'labels': ['CONFINEMENT_DURATION']}]"
+238,359,$100 - F & 6 MOS SUSP,TN,"[{'start': 11, 'end': 16, 'text': '$100 - F & 6 MOS SUSP', 'labels': ['CONFINEMENT_DURATION']}, {'start': 17, 'end': 21, 'text': '$100 - F & 6 MOS SUSP', 'labels': ['CONFINEMENT']}]"
+239,301,CONTINEMENT - 3 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONTINEMENT - 3 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONTINEMENT - 3 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+240,309,CONFINEMENT OR FINE - 6 MONTHS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 6 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 6 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+241,387,CONFINEMENT - 6 MONTHS TO 11 MONTHS 29 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 MONTHS TO 11 MONTHS 29 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 43, 'text': 'CONFINEMENT - 6 MONTHS TO 11 MONTHS 29 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+242,280,CONFINEMENT - 2 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 2 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+243,419,CONFINEMENT - 10 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 10 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 10 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+244,340,"G P , $300 FINE + CC , 90 DAYS SUSP EXCEPT 2 DAYS",TN,"[{'start': 31, 'end': 42, 'text': 'G P , $300 FINE + CC , 90 DAYS SUSP EXCEPT 2 DAYS', 'labels': ['CONFINEMENT']}, {'start': 43, 'end': 49, 'text': 'G P , $300 FINE + CC , 90 DAYS SUSP EXCEPT 2 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+245,412,CONFINEMENT - 4 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 4 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 4 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+246,361,"GUILTY PLEA - 15 YRS @ 35 % EA CT CONC / $2 , 000 EA CT",TN,"[{'start': 14, 'end': 27, 'text': 'GUILTY PLEA - 15 YRS @ 35 % EA CT CONC / $2 , 000 EA CT', 'labels': ['CONFINEMENT_DURATION']}]"
+247,366,CONFINEMENT - 3 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 3 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 3 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+248,405,CONFINEMENT OR FINE - 120 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 120 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 120 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+249,409,CONFINEMENT - 11 / 29 / CAPP - 5 YRS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 11 / 29 / CAPP - 5 YRS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 11 / 29 / CAPP - 5 YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+250,314,CONFINEMENT OR FINE - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+251,282,CONFINEMENT - 1 YR 6 MOS / PROBATION / CC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 1 YR 6 MOS / PROBATION / CC', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 24, 'text': 'CONFINEMENT - 1 YR 6 MOS / PROBATION / CC', 'labels': ['CONFINEMENT_DURATION']}]"
+252,312,CONFINEMENT OR FINE - 90 DAYS / 11 / 29 SUSPENEDED,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 90 DAYS / 11 / 29 SUSPENEDED', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 90 DAYS / 11 / 29 SUSPENEDED', 'labels': ['CONFINEMENT_DURATION']}]"
+253,274,GUILTY PLEA - 16 HOURS COMMUNITY SERVICE,TN,[]
+254,291,11MO 29DAYS SUSP TO 4 DAYS,TN,"[{'start': 12, 'end': 19, 'text': '11MO 29DAYS SUSP TO 4 DAYS', 'labels': ['CONFINEMENT']}, {'start': 20, 'end': 26, 'text': '11MO 29DAYS SUSP TO 4 DAYS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 0, 'end': 11, 'text': '11MO 29DAYS SUSP TO 4 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+255,272,CONFINEMENT OR FINE - 11 / 29 AT 50 % / REV LIC 2YR,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 11 / 29 AT 50 % / REV LIC 2YR', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 37, 'text': 'CONFINEMENT OR FINE - 11 / 29 AT 50 % / REV LIC 2YR', 'labels': ['CONFINEMENT_DURATION']}]"
+256,415,CONFINEMENT - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+257,343,CONFINEMENT OR FINE - 48 HOURS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+258,389,CONFINEMENT OR FINE - 45 DAYS IN JAIL / 11 / 29 PROBATION / $600 FINE AND $188 COST / LICENSE SUSPENDED 2 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 45 DAYS IN JAIL / 11 / 29 PROBATION / $600 FINE AND $188 COST / LICENSE SUSPENDED 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 33, 'end': 37, 'text': 'CONFINEMENT OR FINE - 45 DAYS IN JAIL / 11 / 29 PROBATION / $600 FINE AND $188 COST / LICENSE SUSPENDED 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 45 DAYS IN JAIL / 11 / 29 PROBATION / $600 FINE AND $188 COST / LICENSE SUSPENDED 2 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+259,308,CONFINEMENT - 1 YEAR,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 20, 'text': 'CONFINEMENT - 1 YEAR', 'labels': ['CONFINEMENT_DURATION']}]"
+260,300,"CONFINEMENT OR FINE - 48 HOURS , 250.00 DOL . FINE",TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 48 HOURS , 250.00 DOL . FINE', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 48 HOURS , 250.00 DOL . FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+261,329,CONFINEMENT - 30 DAYS / FINE - $50 / CC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS / FINE - $50 / CC', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS / FINE - $50 / CC', 'labels': ['CONFINEMENT_DURATION']}]"
+262,298,CONFINEMENT 10 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 10 DAYS', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 19, 'text': 'CONFINEMENT 10 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+263,400,2 YEAR SUSP TO TIME SERVED FULL REST $300 / CST,TN,"[{'start': 15, 'end': 26, 'text': '2 YEAR SUSP TO TIME SERVED FULL REST $300 / CST', 'labels': ['CONFINEMENT_DURATION']}, {'start': 0, 'end': 6, 'text': '2 YEAR SUSP TO TIME SERVED FULL REST $300 / CST', 'labels': ['CONFINEMENT_DURATION']}, {'start': 7, 'end': 14, 'text': '2 YEAR SUSP TO TIME SERVED FULL REST $300 / CST', 'labels': ['CONFINEMENT']}]"
+264,317,$353.75 - 30 / 28 JAIL - 11 / 29 PROB - REV DL 1 YR,TN,"[{'start': 18, 'end': 22, 'text': '$353.75 - 30 / 28 JAIL - 11 / 29 PROB - REV DL 1 YR', 'labels': ['CONFINEMENT']}, {'start': 10, 'end': 17, 'text': '$353.75 - 30 / 28 JAIL - 11 / 29 PROB - REV DL 1 YR', 'labels': ['CONFINEMENT_DURATION']}]"
+265,295,CONFINEMENT OR FINE - 4 HOURS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 4 HOURS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 4 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+266,277,CONFINEMENT OR FINE - 30 DAYS CONSECUTIVE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 30 DAYS CONSECUTIVE', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 41, 'text': 'CONFINEMENT OR FINE - 30 DAYS CONSECUTIVE', 'labels': ['CONFINEMENT_DURATION']}]"
+267,320,CONFINEMENT OR FINE - 5 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 5 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 28, 'text': 'CONFINEMENT OR FINE - 5 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+268,410,CONFINEMENT OR FINE - 9 MONTHS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 9 MONTHS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 9 MONTHS', 'labels': ['CONFINEMENT_DURATION']}]"
+269,351,CONFINEMENT - 30 DAYS TO 11 / 29,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS TO 11 / 29', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 32, 'text': 'CONFINEMENT - 30 DAYS TO 11 / 29', 'labels': ['CONFINEMENT_DURATION']}]"
+270,407,CONFINEMENT OR FINE - 45 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 45 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 45 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+271,404,CONFINEMENT - 5 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+272,324,CONFINEMENT - 3 YRS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 3 YRS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 19, 'text': 'CONFINEMENT - 3 YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+273,322,CONFINEMENT - 45 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 45 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 45 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+274,358,GUILTY - AGGRAV BURGLARY - 3 YRS @ 30 %,TN,"[{'start': 27, 'end': 39, 'text': 'GUILTY - AGGRAV BURGLARY - 3 YRS @ 30 %', 'labels': ['CONFINEMENT_DURATION']}]"
+275,370,CON - 30 DAYS CO FARM TO RUN CONCUR - FINE - $100 + $100,TN,"[{'start': 0, 'end': 3, 'text': 'CON - 30 DAYS CO FARM TO RUN CONCUR - FINE - $100 + $100', 'labels': ['CONFINEMENT']}, {'start': 6, 'end': 13, 'text': 'CON - 30 DAYS CO FARM TO RUN CONCUR - FINE - $100 + $100', 'labels': ['CONFINEMENT_DURATION']}]"
+276,319,CONFINEMENT OR FINE - 150 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 150 DAYS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 150 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+277,334,"30 DAYS , $50 FINE , MAKE RESTITUTION",TN,"[{'start': 0, 'end': 7, 'text': '30 DAYS , $50 FINE , MAKE RESTITUTION', 'labels': ['CONFINEMENT_DURATION']}]"
+278,316,CONFINEMENT - 1 - 2 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 1 - 2 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 25, 'text': 'CONFINEMENT - 1 - 2 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+279,348,CONFINEMENT - 30 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 30 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+280,288,CONFINEMENT OR FINE - 4 MONTHS / $50,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 4 MONTHS / $50', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 4 MONTHS / $50', 'labels': ['CONFINEMENT_DURATION']}]"
+281,416,CONFINEMENT OR FINE - $50 - F & 30 DYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - $50 - F & 30 DYS', 'labels': ['CONFINEMENT']}, {'start': 32, 'end': 38, 'text': 'CONFINEMENT OR FINE - $50 - F & 30 DYS', 'labels': ['CONFINEMENT_DURATION']}]"
+282,364,CONFINEMENT OR FINE - 2 YRS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 2 YRS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 27, 'text': 'CONFINEMENT OR FINE - 2 YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+283,315,CONFINEMENT OR FINE - 11 / 29 SUSP TO 10 DAYS / FINED AND COSTS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 11 / 29 SUSP TO 10 DAYS / FINED AND COSTS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 11 / 29 SUSP TO 10 DAYS / FINED AND COSTS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 30, 'end': 37, 'text': 'CONFINEMENT OR FINE - 11 / 29 SUSP TO 10 DAYS / FINED AND COSTS', 'labels': ['CONFINEMENT']}, {'start': 38, 'end': 45, 'text': 'CONFINEMENT OR FINE - 11 / 29 SUSP TO 10 DAYS / FINED AND COSTS', 'labels': ['CONFINEMENT_DURATION']}]"
+284,375,CONFINEMENT OR FINE - 4 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 4 YEARS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 4 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+285,302,CONFINEMENT - 6 YEARS TDOC TO RUN CONCURRENT W / THEFT,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 YEARS TDOC TO RUN CONCURRENT W / THEFT', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 6 YEARS TDOC TO RUN CONCURRENT W / THEFT', 'labels': ['CONFINEMENT_DURATION']}]"
+286,354,CONFINEMENT 2 DAYS / PROBATION 11 - 29 / FINE $350 AND COSTS $188,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 2 DAYS / PROBATION 11 - 29 / FINE $350 AND COSTS $188', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 18, 'text': 'CONFINEMENT 2 DAYS / PROBATION 11 - 29 / FINE $350 AND COSTS $188', 'labels': ['CONFINEMENT_DURATION']}]"
+287,386,CONFINEMENT - 10 DAYS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 10 DAYS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 10 DAYS', 'labels': ['CONFINEMENT_DURATION']}]"
+288,278,CONFINEMENT OR FINE - 6 YEARS - TDOC,TN,"[{'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 6 YEARS - TDOC', 'labels': ['CONFINEMENT_DURATION']}, {'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 6 YEARS - TDOC', 'labels': ['CONFINEMENT']}]"
+289,401,GUILTY PLEA - 5CTS - 2 YRS SUSP / RESTIT / CC / PROBATION,TN,"[{'start': 27, 'end': 31, 'text': 'GUILTY PLEA - 5CTS - 2 YRS SUSP / RESTIT / CC / PROBATION', 'labels': ['CONFINEMENT']}, {'start': 21, 'end': 26, 'text': 'GUILTY PLEA - 5CTS - 2 YRS SUSP / RESTIT / CC / PROBATION', 'labels': ['CONFINEMENT_DURATION']}]"
+290,381,CONFINEMENT OR FINE - 5 YRS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 5 YRS', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 27, 'text': 'CONFINEMENT OR FINE - 5 YRS', 'labels': ['CONFINEMENT_DURATION']}]"
+291,350,CONFINEMENT OR FINE - 11 - 29 SUSP TO 48 HRS - $250 FINE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 11 - 29 SUSP TO 48 HRS - $250 FINE', 'labels': ['CONFINEMENT']}, {'start': 30, 'end': 37, 'text': 'CONFINEMENT OR FINE - 11 - 29 SUSP TO 48 HRS - $250 FINE', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 29, 'text': 'CONFINEMENT OR FINE - 11 - 29 SUSP TO 48 HRS - $250 FINE', 'labels': ['CONFINEMENT_DURATION']}, {'start': 38, 'end': 44, 'text': 'CONFINEMENT OR FINE - 11 - 29 SUSP TO 48 HRS - $250 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+292,391,SERVE 10 DAYS ; $250 FINE,TN,"[{'start': 0, 'end': 5, 'text': 'SERVE 10 DAYS ; $250 FINE', 'labels': ['CONFINEMENT']}, {'start': 6, 'end': 13, 'text': 'SERVE 10 DAYS ; $250 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+293,388,CONFINEMENT 90 DAYS / $50 FINE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT 90 DAYS / $50 FINE', 'labels': ['CONFINEMENT']}, {'start': 12, 'end': 19, 'text': 'CONFINEMENT 90 DAYS / $50 FINE', 'labels': ['CONFINEMENT_DURATION']}]"
+294,335,CONFINEMENT OR FINE - 250 + CC / LIC REV 1YR / ATT SCHOOL,TN,[]
+295,403,CONFINEMENT OR FINE - 6 MONTHS WORKHOUSE,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT OR FINE - 6 MONTHS WORKHOUSE', 'labels': ['CONFINEMENT']}, {'start': 22, 'end': 30, 'text': 'CONFINEMENT OR FINE - 6 MONTHS WORKHOUSE', 'labels': ['CONFINEMENT_DURATION']}]"
+296,418,4 DYS JAIL,TN,"[{'start': 6, 'end': 10, 'text': '4 DYS JAIL', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 5, 'text': '4 DYS JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+297,271,6 MOS CO . JAIL,TN,"[{'start': 6, 'end': 15, 'text': '6 MOS CO . JAIL', 'labels': ['CONFINEMENT']}, {'start': 0, 'end': 5, 'text': '6 MOS CO . JAIL', 'labels': ['CONFINEMENT_DURATION']}]"
+298,304,CONFINEMENT - 6 MONTHS / $100,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 6 MONTHS / $100', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 6 MONTHS / $100', 'labels': ['CONFINEMENT_DURATION']}]"
+299,367,CONFINEMENT - 12 YEARS TDOC,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 12 YEARS TDOC', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 22, 'text': 'CONFINEMENT - 12 YEARS TDOC', 'labels': ['CONFINEMENT_DURATION']}]"
+300,313,CONFINEMENT - 5 YEARS,TN,"[{'start': 0, 'end': 11, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT']}, {'start': 14, 'end': 21, 'text': 'CONFINEMENT - 5 YEARS', 'labels': ['CONFINEMENT_DURATION']}]"
+301,279,11 / 29 TO SERVE 48 HOURS,TN,"[{'start': 8, 'end': 16, 'text': '11 / 29 TO SERVE 48 HOURS', 'labels': ['CONFINEMENT']}, {'start': 17, 'end': 25, 'text': '11 / 29 TO SERVE 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}, {'start': 0, 'end': 7, 'text': '11 / 29 TO SERVE 48 HOURS', 'labels': ['CONFINEMENT_DURATION']}]"
+302,48,CONFIN-1/3 YRS/FINE-$1000+CC/SENT SUSP/1 YR PROB,Tennessee Data Workbook (tn-data-coding),[]
+303,13,"""11/29 SUSP TO 30DA, BAL ON PROB $250+$165 RESTIT""",Tennessee Data Workbook (tn-data-coding),[]
+304,40,SENT-11/29 SUSP/PROB-11/29/FINE-$50/CC/PAY TOW BIL,Tennessee Data Workbook (tn-data-coding),[]
+305,34,CONVICTED DIFF CHG-STATUTORY RAPE-4 YEARS,Tennessee Data Workbook (tn-data-coding),[]
+306,72,30DA TO 48HR/11/29PROB/LIC REV 1YR/$250/COSTS,Tennessee Data Workbook (tn-data-coding),[]
+307,16,FINE AND COURT COSTS-$50/CC,Tennessee Data Workbook (tn-data-coding),[]
+308,25,CONFINEMENT-11/29 EACH COUNT,Tennessee Data Workbook (tn-data-coding),[]
+309,80,CHARGES DROPPED,Tennessee Data Workbook (tn-data-coding),[]
+310,24,CONFINEMENT OR FINE-$50+6 MOS SUSP,Tennessee Data Workbook (tn-data-coding),[]
+311,59,PROBATION UNTIL 02-26-93,Tennessee Data Workbook (tn-data-coding),[]
+312,69,SENT-3 YRS-ALL SUSP-30 DYS-PLACED ON SUPRVD PROB,Tennessee Data Workbook (tn-data-coding),[]
+313,53,CONFINEMENT-30 YEARS AT 35% TDOC,Tennessee Data Workbook (tn-data-coding),[]
+314,36,CONVICTED DIFF CHG-11/29 SUSP XC 48 HRS-$250 + CC,Tennessee Data Workbook (tn-data-coding),[]
+315,31,GUILTY PLEA-LEAV SCENE OF ACCID-SENT 60 DAYS,Tennessee Data Workbook (tn-data-coding),[]
+316,56,SENT-NOT LESS THAN 90 DAS-SUSP UPON PYMT OF $50,Tennessee Data Workbook (tn-data-coding),[]
+317,77,DISMIS ON PAY RES/CST-$50 + 30DAYS,Tennessee Data Workbook (tn-data-coding),[]
+318,9,11/29 SUSPENDED-10 DAYS COMMUNITY SERV.-RESTITUTION-CC,Tennessee Data Workbook (tn-data-coding),[]
+319,41,"""CONFINEMENT-TYC, NASHVILLE-INDEFINITE PERIOD TIME""",Tennessee Data Workbook (tn-data-coding),[]
+320,78,70 FINE OR 14 DAYS,Tennessee Data Workbook (tn-data-coding),[]
+321,15,CONFINEMENT-SERVE 48 HOURS REST OF 11/29 SUSPENDED/PAY $50 FINE AND COURT COSTS,Tennessee Data Workbook (tn-data-coding),[]
+322,30,CONVCTD-MALICIOUS MISCHIEF/11 MOS 29 DAS/1 YR PROB,Tennessee Data Workbook (tn-data-coding),[]
+323,50,CONVICTED DIFF CHG-POSS-11/29 SUSP/11/29 PROB/CC,Tennessee Data Workbook (tn-data-coding),[]
+324,81,CONFINEMENT OR FINE-SEVEN (7) YEARS,Tennessee Data Workbook (tn-data-coding),[]
+325,18,CONFINE-11/29 TO SERVE 120 DAYS/FINE-$225/CC-CONCU,Tennessee Data Workbook (tn-data-coding),[]
+326,10,FINE & CC-$50 + CC-11/29 SUSP/28 DAY TREATMT PROG,Tennessee Data Workbook (tn-data-coding),[]
+327,70,PROB-11/29/REV LIC-1YR/JAIL-2 DAYS/FINE-$330.25,Tennessee Data Workbook (tn-data-coding),[]
+328,20,CONFINE-1 YEAR/3 YRS PROBATION,Tennessee Data Workbook (tn-data-coding),[]
+329,14,SENTENCE SUSPENDED 11-29 EXCEPT 2 DAYS/PROBATION 11-28/FINE $284,Tennessee Data Workbook (tn-data-coding),[]
+330,82,2 DAYS IN FAIL,Tennessee Data Workbook (tn-data-coding),[]
+331,61,CONFINEMENT OR FINE-3-3 YEARS PEN,Tennessee Data Workbook (tn-data-coding),[]
+332,29,CONFINEMENT OR FINE-THREE (3) YEARS,Tennessee Data Workbook (tn-data-coding),[]
+333,32,SENTENCE SUSPENDED-30 DAYS/6 M PROBATION/$100FINE,Tennessee Data Workbook (tn-data-coding),[]
+334,84,SENT UNKNOWN-INDEFINITE SENT TO STATE DEPT OF CORR,Tennessee Data Workbook (tn-data-coding),[]
+335,83,CONF-5 CONSEC 1 YR SENT & 3 YRS PROBATION FOLLOWIN,Tennessee Data Workbook (tn-data-coding),[]
+336,62,CONVCTD-6 MOS SUSP ON TIME SERVED/FINE-$50 & COSTS,Tennessee Data Workbook (tn-data-coding),[]
+337,44,CONVCTD-LARC-PETIT-2YRS SUSP TO 190 DAS-2 YR PROB,Tennessee Data Workbook (tn-data-coding),[]
+338,42,CONFINE-48 HRS/11/29 PROB/REV DL 1 YR/250/CC 65.25,Tennessee Data Workbook (tn-data-coding),[]
+339,37,CONFINEMENT-NOT LESS THAN 9 YRS.-NO MORE THAN 9 YEARS,Tennessee Data Workbook (tn-data-coding),[]
+340,60,CONFINEMENT-6 YTEARS,Tennessee Data Workbook (tn-data-coding),[]
+341,49,GLT PLEA-1 YR SUSP EX 60 DAS/FINE-$1000& CC/1YRPRO,Tennessee Data Workbook (tn-data-coding),[]
+342,85,"""120DZ/$1,000/CC/SUPRV PROB 11/29/LIC REVOKED 3 YRS""",Tennessee Data Workbook (tn-data-coding),[]
+343,27,SENT SUSP-4 YRS TO 120 DYS/PROB-4 YRS/CC,Tennessee Data Workbook (tn-data-coding),[]
+344,47,SENT.SUSP-11/29 45DS/$500/DISM./60 DAYS,Tennessee Data Workbook (tn-data-coding),[]
+345,11,SENT SUSP-11/29 SUSP/SUPV PROB/RANDOM DRUG SCREEN/$250+COST,Tennessee Data Workbook (tn-data-coding),[]
+346,21,"""CONFINEMENT OR FINE-48 HRS. 250.00$, DUI SCHOOL""",Tennessee Data Workbook (tn-data-coding),[]
+347,28,CONFINEMENT OR FINE-5-9 YEARS STATE PEN,Tennessee Data Workbook (tn-data-coding),[]
+348,58,"""5 YRS PRISON-5 YRS SPECIAL PAROLE & $15,000 FINE""",Tennessee Data Workbook (tn-data-coding),[]
+349,26,CONFINEMENT 2 YEARS/ 30 HRS COMMUNITY SERVICE/ CC,Tennessee Data Workbook (tn-data-coding),[]
+350,55,CONFNMT-3YR @ 30% SUSP AFTER 30DAYS/IN-PATIENT CTR,Tennessee Data Workbook (tn-data-coding),[]
+351,67,GUILT PLEA-SENT NOT LESS THAN 3 YRS OR MORE THAN 5,Tennessee Data Workbook (tn-data-coding),[]
+352,12,SENTENCE SUSPENDED 11-29 BUT 45 DAYS/ ETHRA PROBATION/ FINE $600/ CC $226.50,Tennessee Data Workbook (tn-data-coding),[]
+353,8,SENTENCE SUSPENDED- 11/29 SUSP,Tennessee Data Workbook (tn-data-coding),[]
+354,74,SENT SUSP-6MOS @75% TO TIME SERVED/$100/CC,Tennessee Data Workbook (tn-data-coding),[]
+355,54,CONF-5-5 YEARS KNOX CO.PENAL CONC W/FEDERAL CONVC,Tennessee Data Workbook (tn-data-coding),[]
+356,51,CONFINEMENT-39 MONTHS OF A 6 YR SENTENCE,Tennessee Data Workbook (tn-data-coding),[]
+357,35,"""CONFINEMENT-11 DYS/RESTITUTION-$9,360/CC""",Tennessee Data Workbook (tn-data-coding),[]
+358,23,CONFINEMENT-5 MONTHS EACH COUNT,Tennessee Data Workbook (tn-data-coding),[]
+359,63,CONFINEMENT-17 MONTHS & 29 DAYS,Tennessee Data Workbook (tn-data-coding),[]
+360,75,CONFINEMENT-48 HOURS WORKHOUSE/FINE-$250,Tennessee Data Workbook (tn-data-coding),[]
+361,57,CONFINEMENT-11/299-CONSECUTIVE/FINE-$500,Tennessee Data Workbook (tn-data-coding),[]
+362,43,CONVCTD-MAL BURNING/11/29 SUSP/MENTAL INSTITUTION,Tennessee Data Workbook (tn-data-coding),[]
+363,52,SENT-3 YEARS SUSP T0 65 DAS/UNSPERVISED PROBATION,Tennessee Data Workbook (tn-data-coding),[]
+364,39,CONVCTD-ASSAULT-BATTERY/11 MOS 29 DAYS-WORKHOUSE,Tennessee Data Workbook (tn-data-coding),[]
+365,46,SENTENCE SUSPENDED-6 MTHS-6MTHS UNSUPERVISED PROB,Tennessee Data Workbook (tn-data-coding),[]
+366,66,CONVCTD-AGG ASSAULT-SENT SUSP-2 YRS/PROB-2 YRS,Tennessee Data Workbook (tn-data-coding),[]
+367,65,CONF-GOOD BEHAVIOR UNTIL 1/3/85/SENT PROJECT MORE,Tennessee Data Workbook (tn-data-coding),[]
+368,68,"""11/29 MOS.,SUSP.EX.22DAYS,$250 FINE+$151+CC""",Tennessee Data Workbook (tn-data-coding),[]
+369,7,11 MOS 29 DAYS SENTENCE SUSPENDED ALL BUT 30 DAYS /REMAINDER PORBATION,Tennessee Data Workbook (tn-data-coding),[]
+370,71,6 YEARS TDOC,Tennessee Data Workbook (tn-data-coding),[]
+371,1,"""GUILTY PLEA-17CTS/18 YRS/$5,068.87 REST""",Unknown,[]
+372,2,CONFINEMENT-18 YEARS/FINE-$4000,Unknown,[]
+373,3,8 YRS,Unknown,[]
+374,4,8 YRS EA,Unknown,[]
+375,0,"""CONFINEMENT OR FINE-18 YEARS/40,000 DOLLAR FINE""",Unknown,[]
+376,6,CONFINEMENT OR FINE- 3 TO 5 YRS,Unknown,[]

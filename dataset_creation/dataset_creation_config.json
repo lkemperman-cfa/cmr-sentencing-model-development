@@ -1,0 +1,13 @@
+{
+  "train_proportion": 0.9,
+  "csv_filenames": ["dataset_creation/raw_data/train_v1_converted.csv", "dataset_creation/raw_data/test_v1_converted.csv"],
+  "csv_transformations":
+  {
+    "map_labels": {"INCARCERATION":  "CONFINEMENT_DURATION"}
+  },
+  "json_transformations": {},
+  "json_filenames": ["dataset_creation/raw_data/sentence_data_20241012.json"],
+  "stratify_column": "Source",
+  "columns": ["Source", "Text", "label"],
+  "label_list": ["CONFINEMENT", "CONFINEMENT_DURATION", "PROBATION", "PROBATION_DURATION"]
+}

@@ -1,0 +1,12 @@
+{
+  "dataset_config": [{"dataset_path":  "", "output_path":  ""}],
+  "dataset_path": "spacy/datasets/raw/test_experiment_3.csv",
+  "output_path": "spacy/datasets/processed/test_experiment_3.spacy",
+  "labels": ["INCARCERATION"],
+  "char_span_args": {
+    "alignment_mode": "expand"
+  },
+  "annotation_format": "LabelStudio",
+  "export_dataframe": false,
+  "export_path": "dataset_creation/raw_data/test_experiment_3.csv"
+}
