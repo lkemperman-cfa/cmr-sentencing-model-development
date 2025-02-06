@@ -1,3 +1,8 @@
 /spacy_impl/datasets/
 /dataset_creation/raw_data/
 /.idea/
+/datasets/raw_data/*
+/datasets/
+/experiments/
+*/__pycache__/*
+*/*/__pycache__/*
